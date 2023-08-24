@@ -86,8 +86,8 @@
             }
 
             @media only screen and (min-width: 768px) {
-                height: 15rem;
-                width: 15rem;
+                height: auto;
+                width: 100%;
             }
         }
     }
