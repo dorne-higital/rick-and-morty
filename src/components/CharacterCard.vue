@@ -50,12 +50,13 @@
 
         @media only screen and (min-width: 1280px) {
             padding: 1rem;
+            width: calc((100% / 4) - 0.5rem)
         }
 
         @media only screen and (min-width: 768px) {
             flex-direction: column;
             height: fit-content;
-            width: calc((100% / 4) - 0.5rem)
+            width: calc((100% / 2) - 0.5rem)
         }
 
         &:hover {
