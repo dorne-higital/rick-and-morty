@@ -56,7 +56,7 @@
         @media only screen and (min-width: 768px) {
             flex-direction: column;
             height: fit-content;
-            width: calc((100% / 2) - 2rem);
+            width: calc(40% - 2rem);
         }
 
         &:hover {
