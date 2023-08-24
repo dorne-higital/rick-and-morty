@@ -50,7 +50,7 @@
 
         @media only screen and (min-width: 1024px) {
             padding: 1rem;
-            width: calc((100% / 4) - 0.5rem)
+            width: calc((100% / 4) - 0.5rem) !important;
         }
 
         @media only screen and (min-width: 768px) {
