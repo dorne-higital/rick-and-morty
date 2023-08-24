@@ -48,7 +48,7 @@
         text-align: left;
         transition: 0.3s;
 
-        @media only screen and (min-width: 1280px) {
+        @media only screen and (min-width: 1024px) {
             padding: 1rem;
             width: calc((100% / 4) - 0.5rem)
         }
